@@ -8,7 +8,7 @@ const Navbar = () => {
     <Link to='/'>
         <div className="navbar">
             <FaCoins className='icon'/>
-            <h1>Coin <span className="purple">Data</span></h1>
+            <h1>Coin <span className="purple">Data in €</span></h1>
         </div>
     </Link>
   )
