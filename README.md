@@ -1,3 +1,6 @@
+# A crypto coin price tracker (in €) using React & Coingecko API, deployed thanks to Netlify, at https://react-coindata.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
